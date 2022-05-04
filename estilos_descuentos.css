@@ -1,0 +1,29 @@
+.h1{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+#boton{
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+
+#titu2{
+    text-align: end;
+    margin-right: 1cm;
+}
+
+.card {
+    margin: auto!important;
+    cursor: pointer;
+    border-color: var(--backgroundNavHeader)!important;
+}
+
+.card:hover {
+    transform: scale(1.08);
+    transition: all 0.3s ease;
+}
+
+.row{
+    font-family: 'Courier';
+}
